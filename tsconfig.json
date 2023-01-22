@@ -15,7 +15,7 @@
     "noImplicitReturns": true,
     "skipLibCheck": true,
     "typeRoots": ["./node_modules/phaser/types"],
-    "types": ["Phaser"]
+    "types": ["phaser"]
   },
   "include": ["src"]
 }
